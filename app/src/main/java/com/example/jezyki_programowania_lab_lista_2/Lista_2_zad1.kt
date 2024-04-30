@@ -393,6 +393,7 @@ fun main(){
 
 //        newPolynomial *= Polynomial_2
 //    println(newPolynomial.TekstWielomian())
+
 }
 
 
